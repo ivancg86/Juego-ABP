@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+
+    <TextView
+        android:id="@+id/placerespuesta"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:gravity="center"
+        android:textSize="50sp"
+        android:layout_marginTop="100dp"
+        android:background="@color/Azul"
+        android:textColor="@color/Blanco"
+        android:layout_margin="50dp"
+        android:alpha="0.8"/>
+
+</LinearLayout>

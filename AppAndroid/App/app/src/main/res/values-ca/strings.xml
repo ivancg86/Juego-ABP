@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Joc mNACTEC</string>
+    <string name="continuar">Fes click aqui per continuar...</string>
+    <string name="dificil">Difícil</string>
+    <string name="facil">Fàcil</string>
+    <string name="iniciar">COMENÇAR</string>
+    <string name="numAciertos">"El número d'encerts és de: "</string>
+    <string name="respuestaCorrecta">Resposta correcte!</string>
+</resources>

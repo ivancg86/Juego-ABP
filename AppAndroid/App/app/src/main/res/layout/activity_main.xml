@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+    gif de fondo: https://stackoverflow.com/questions/6533942/adding-gif-image-in-an-imageview-in-android
+-->
+<RelativeLayout
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <ImageView
+        android:id="@+id/btniniciar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop" />
+
+
+    <VideoView
+        android:id="@+id/video"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scaleType="fitCenter" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="251dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="-280dp"
+        android:layout_marginBottom="80dp"
+        android:scaleType="centerInside"
+        android:src="@drawable/rectidiomas" />
+
+    <ImageView
+        android:id="@+id/catalan"
+        android:layout_width="180dp"
+        android:layout_height="180dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="460dp"
+        android:layout_marginBottom="115dp"
+        android:src="@drawable/cat"
+        android:scaleType="centerInside"/>
+
+    <ImageView
+        android:id="@+id/castellano"
+        android:layout_width="180dp"
+        android:layout_height="180dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="240dp"
+        android:layout_marginBottom="115dp"
+        android:src="@drawable/esp"
+        android:scaleType="centerInside"/>
+
+    <ImageView
+        android:id="@+id/ingles"
+        android:layout_width="180dp"
+        android:layout_height="180dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="25dp"
+        android:layout_marginBottom="115dp"
+        android:src="@drawable/eng"
+        android:scaleType="centerInside"/>
+
+
+
+    <TextView
+        android:id="@+id/textoIniciar"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="100dp"
+        android:textColor="@color/Blanco"
+        android:textAlignment="center"
+        android:layout_centerVertical="true"/>
+
+
+</RelativeLayout>
+

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/fondojuego"
+    android:id="@+id/juegoLayout">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/joc"
+        android:alpha="0.8"/>
+
+
+
+    //Textview para las preguntas
+    <TextView
+        android:id="@+id/pregunta"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:textSize="50sp"
+        android:textColor="@color/Blanco"
+        android:translationY="400dp"/>
+
+    //GridView para las respuestas
+    <GridView
+        android:id="@+id/gridrespuestas"
+        android:layout_width="match_parent"
+        android:layout_height="780dp"
+        android:numColumns="2"
+        android:layout_alignParentBottom="true"
+        android:stretchMode="columnWidth"
+        android:gravity="center"/>
+
+    <TextView
+        android:id="@+id/tiempo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="visible"
+        android:textSize="150sp"
+        android:layout_marginTop="50dp"
+        android:textAlignment="center"
+        android:text="30"
+        android:textColor="@color/Blanco"/>
+
+</RelativeLayout>

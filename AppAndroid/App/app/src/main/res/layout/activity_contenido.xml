@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    android:id="@+id/pantallaContenido"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/nave">
+
+
+
+    <ImageButton
+        android:id="@+id/inicio"
+        android:layout_width="220dp"
+        android:layout_height="220dp"
+        android:background="#00000000"
+        android:scaleType="fitCenter"
+        android:src="@drawable/home"
+        />
+
+    <!--EL TEXTO SE CARGA EN TIEMPO DE EJECUCIÓN-->
+    <TextView
+        android:id="@+id/informacion"
+        android:layout_width="1390dp"
+        android:layout_height="600dp"
+        android:layout_marginRight="500dp"
+        android:textAlignment="textStart"
+        android:textColor="@color/Blanco"
+        android:textSize="45sp"
+        android:translationX="190dp"
+        android:translationY="250dp"
+        />
+
+    <Button
+        android:id="@+id/btncontinuar"
+        android:layout_width="match_parent"
+        android:layout_height="1100dp"
+        android:scaleType="centerCrop"
+        android:background="@android:color/transparent"
+        android:layout_alignParentBottom="true"
+        />
+
+    <ImageView
+        android:id="@+id/imagenNarrador"
+        android:layout_width="900dp"
+        android:layout_height="1000dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:translationX="-10dp"
+        android:translationY="-100dp"
+        />
+
+
+    <TextView
+        android:id="@+id/continuar"
+        android:layout_width="1000dp"
+        android:layout_height="wrap_content"
+        android:text="@string/continuar"
+        android:textSize="50sp"
+        android:translationX="565dp"
+        android:translationY="900dp"
+        android:gravity="end"/>
+
+    <TextView
+        android:id="@+id/tiempo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"/>
+
+    <TextView
+        android:id="@+id/progreso"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="70sp"
+        android:layout_alignParentRight="true"
+        android:layout_margin="20dp"
+        android:textStyle="bold"
+        android:textColor="@color/Blanco"
+        />
+
+
+</RelativeLayout>
