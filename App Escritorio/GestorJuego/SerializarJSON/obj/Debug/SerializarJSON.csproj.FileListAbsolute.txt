@@ -1,0 +1,48 @@
+C:\Users\Marc\source\repos\SerializarJSON\SerializarJSON\bin\Debug\SerializarJSON.exe.config
+C:\Users\Marc\source\repos\SerializarJSON\SerializarJSON\bin\Debug\SerializarJSON.exe
+C:\Users\Marc\source\repos\SerializarJSON\SerializarJSON\bin\Debug\SerializarJSON.pdb
+C:\Users\Marc\source\repos\SerializarJSON\SerializarJSON\obj\Debug\SerializarJSON.csprojAssemblyReference.cache
+C:\Users\Marc\source\repos\SerializarJSON\SerializarJSON\obj\Debug\SerializarJSON.Form1.resources
+C:\Users\Marc\source\repos\SerializarJSON\SerializarJSON\obj\Debug\SerializarJSON.Properties.Resources.resources
+C:\Users\Marc\source\repos\SerializarJSON\SerializarJSON\obj\Debug\SerializarJSON.csproj.GenerateResource.cache
+C:\Users\Marc\source\repos\SerializarJSON\SerializarJSON\obj\Debug\SerializarJSON.csproj.CoreCompileInputs.cache
+C:\Users\Marc\source\repos\SerializarJSON\SerializarJSON\obj\Debug\SerializarJSON.exe
+C:\Users\Marc\source\repos\SerializarJSON\SerializarJSON\obj\Debug\SerializarJSON.pdb
+C:\Users\Marc\source\repos\SerializarJSON\SerializarJSON\bin\Debug\ca\SerializarJSON.resources.dll
+C:\Users\Marc\source\repos\SerializarJSON\SerializarJSON\obj\Debug\SerializarJSON.Form1.ca.resources
+C:\Users\Marc\source\repos\SerializarJSON\SerializarJSON\obj\Debug\ca\SerializarJSON.resources.dll
+C:\Users\Marc\source\repos\SerializarJSON\SerializarJSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Marc\source\repos\SerializarJSON\SerializarJSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Marc\source\repos\SerializarJSON\SerializarJSON\obj\Debug\SerializarJSON.csproj.CopyComplete
+C:\Users\Marc\Downloads\ABP-master\App Escritorio\SerializarJSON\SerializarJSON\bin\Debug\SerializarJSON.exe.config
+C:\Users\Marc\Downloads\ABP-master\App Escritorio\SerializarJSON\SerializarJSON\bin\Debug\SerializarJSON.exe
+C:\Users\Marc\Downloads\ABP-master\App Escritorio\SerializarJSON\SerializarJSON\bin\Debug\SerializarJSON.pdb
+C:\Users\Marc\Downloads\ABP-master\App Escritorio\SerializarJSON\SerializarJSON\bin\Debug\ca\SerializarJSON.resources.dll
+C:\Users\Marc\Downloads\ABP-master\App Escritorio\SerializarJSON\SerializarJSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Marc\Downloads\ABP-master\App Escritorio\SerializarJSON\SerializarJSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Marc\Downloads\ABP-master\App Escritorio\SerializarJSON\SerializarJSON\obj\Debug\SerializarJSON.csprojAssemblyReference.cache
+C:\Users\Marc\Downloads\ABP-master\App Escritorio\SerializarJSON\SerializarJSON\obj\Debug\SerializarJSON.Form1.resources
+C:\Users\Marc\Downloads\ABP-master\App Escritorio\SerializarJSON\SerializarJSON\obj\Debug\SerializarJSON.Properties.Resources.resources
+C:\Users\Marc\Downloads\ABP-master\App Escritorio\SerializarJSON\SerializarJSON\obj\Debug\SerializarJSON.Form1.ca.resources
+C:\Users\Marc\Downloads\ABP-master\App Escritorio\SerializarJSON\SerializarJSON\obj\Debug\SerializarJSON.csproj.GenerateResource.cache
+C:\Users\Marc\Downloads\ABP-master\App Escritorio\SerializarJSON\SerializarJSON\obj\Debug\SerializarJSON.csproj.CoreCompileInputs.cache
+C:\Users\Marc\Downloads\ABP-master\App Escritorio\SerializarJSON\SerializarJSON\obj\Debug\ca\SerializarJSON.resources.dll
+C:\Users\Marc\Downloads\ABP-master\App Escritorio\SerializarJSON\SerializarJSON\obj\Debug\SerializarJSON.csproj.CopyComplete
+C:\Users\Marc\Downloads\ABP-master\App Escritorio\SerializarJSON\SerializarJSON\obj\Debug\SerializarJSON.exe
+C:\Users\Marc\Downloads\ABP-master\App Escritorio\SerializarJSON\SerializarJSON\obj\Debug\SerializarJSON.pdb
+C:\Users\Marc\Downloads\ABP\App Escritorio\SerializarJSON\SerializarJSON\bin\Debug\SerializarJSON.exe.config
+C:\Users\Marc\Downloads\ABP\App Escritorio\SerializarJSON\SerializarJSON\bin\Debug\SerializarJSON.exe
+C:\Users\Marc\Downloads\ABP\App Escritorio\SerializarJSON\SerializarJSON\bin\Debug\SerializarJSON.pdb
+C:\Users\Marc\Downloads\ABP\App Escritorio\SerializarJSON\SerializarJSON\bin\Debug\ca\SerializarJSON.resources.dll
+C:\Users\Marc\Downloads\ABP\App Escritorio\SerializarJSON\SerializarJSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Marc\Downloads\ABP\App Escritorio\SerializarJSON\SerializarJSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Marc\Downloads\ABP\App Escritorio\SerializarJSON\SerializarJSON\obj\Debug\SerializarJSON.csprojAssemblyReference.cache
+C:\Users\Marc\Downloads\ABP\App Escritorio\SerializarJSON\SerializarJSON\obj\Debug\SerializarJSON.Form1.resources
+C:\Users\Marc\Downloads\ABP\App Escritorio\SerializarJSON\SerializarJSON\obj\Debug\SerializarJSON.Properties.Resources.resources
+C:\Users\Marc\Downloads\ABP\App Escritorio\SerializarJSON\SerializarJSON\obj\Debug\SerializarJSON.Form1.ca.resources
+C:\Users\Marc\Downloads\ABP\App Escritorio\SerializarJSON\SerializarJSON\obj\Debug\SerializarJSON.csproj.GenerateResource.cache
+C:\Users\Marc\Downloads\ABP\App Escritorio\SerializarJSON\SerializarJSON\obj\Debug\SerializarJSON.csproj.CoreCompileInputs.cache
+C:\Users\Marc\Downloads\ABP\App Escritorio\SerializarJSON\SerializarJSON\obj\Debug\ca\SerializarJSON.resources.dll
+C:\Users\Marc\Downloads\ABP\App Escritorio\SerializarJSON\SerializarJSON\obj\Debug\SerializarJSON.csproj.CopyComplete
+C:\Users\Marc\Downloads\ABP\App Escritorio\SerializarJSON\SerializarJSON\obj\Debug\SerializarJSON.exe
+C:\Users\Marc\Downloads\ABP\App Escritorio\SerializarJSON\SerializarJSON\obj\Debug\SerializarJSON.pdb

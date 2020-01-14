@@ -1,0 +1,224 @@
+C:\Users\Marc\Downloads\ABP\App Escritorio\SerializarJSON\SerializarJSON\bin\Debug\SerializarJSON.exe.config
+C:\Users\Marc\Downloads\ABP\App Escritorio\SerializarJSON\SerializarJSON\bin\Debug\SerializarJSON.exe
+C:\Users\Marc\Downloads\ABP\App Escritorio\SerializarJSON\SerializarJSON\bin\Debug\SerializarJSON.pdb
+C:\Users\Marc\Downloads\ABP\App Escritorio\SerializarJSON\SerializarJSON\bin\Debug\ca\SerializarJSON.resources.dll
+C:\Users\Marc\Downloads\ABP\App Escritorio\SerializarJSON\SerializarJSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Marc\Downloads\ABP\App Escritorio\SerializarJSON\SerializarJSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Marc\Downloads\ABP\App Escritorio\SerializarJSON\SerializarJSON\obj\Debug\GestorJuego.csprojAssemblyReference.cache
+C:\Users\Marc\Downloads\ABP\App Escritorio\SerializarJSON\SerializarJSON\obj\Debug\SerializarJSON.GestorJuego.resources
+C:\Users\Marc\Downloads\ABP\App Escritorio\SerializarJSON\SerializarJSON\obj\Debug\SerializarJSON.Properties.Resources.resources
+C:\Users\Marc\Downloads\ABP\App Escritorio\SerializarJSON\SerializarJSON\obj\Debug\SerializarJSON.GestorJuego.ca.resources
+C:\Users\Marc\Downloads\ABP\App Escritorio\SerializarJSON\SerializarJSON\obj\Debug\GestorJuego.csproj.GenerateResource.cache
+C:\Users\Marc\Downloads\ABP\App Escritorio\SerializarJSON\SerializarJSON\obj\Debug\GestorJuego.csproj.CoreCompileInputs.cache
+C:\Users\Marc\Downloads\ABP\App Escritorio\SerializarJSON\SerializarJSON\obj\Debug\ca\SerializarJSON.resources.dll
+C:\Users\Marc\Downloads\ABP\App Escritorio\SerializarJSON\SerializarJSON\obj\Debug\GestorJuego.csproj.CopyComplete
+C:\Users\Marc\Downloads\ABP\App Escritorio\SerializarJSON\SerializarJSON\obj\Debug\SerializarJSON.exe
+C:\Users\Marc\Downloads\ABP\App Escritorio\SerializarJSON\SerializarJSON\obj\Debug\SerializarJSON.pdb
+C:\Users\Marc\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\SerializarJSON.exe.config
+C:\Users\Marc\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\SerializarJSON.exe
+C:\Users\Marc\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\SerializarJSON.pdb
+C:\Users\Marc\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\ca\SerializarJSON.resources.dll
+C:\Users\Marc\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Marc\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\GestorJuego.csprojAssemblyReference.cache
+C:\Users\Marc\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.Properties.Resources.resources
+C:\Users\Marc\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\GestorJuego.csproj.GenerateResource.cache
+C:\Users\Marc\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\GestorJuego.csproj.CoreCompileInputs.cache
+C:\Users\Marc\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\ca\SerializarJSON.resources.dll
+C:\Users\Marc\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\GestorJuego.csproj.CopyComplete
+C:\Users\Marc\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.exe
+C:\Users\Marc\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.pdb
+C:\Users\alber\Desktop\Projecte ABP\ABP-master\ABP-master\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\SerializarJSON.exe.config
+C:\Users\alber\Desktop\Projecte ABP\ABP-master\ABP-master\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\SerializarJSON.exe
+C:\Users\alber\Desktop\Projecte ABP\ABP-master\ABP-master\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\SerializarJSON.pdb
+C:\Users\alber\Desktop\Projecte ABP\ABP-master\ABP-master\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\ca\SerializarJSON.resources.dll
+C:\Users\alber\Desktop\Projecte ABP\ABP-master\ABP-master\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alber\Desktop\Projecte ABP\ABP-master\ABP-master\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alber\Desktop\Projecte ABP\ABP-master\ABP-master\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\GestorJuego.csprojAssemblyReference.cache
+C:\Users\alber\Desktop\Projecte ABP\ABP-master\ABP-master\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.GestorJuego.resources
+C:\Users\alber\Desktop\Projecte ABP\ABP-master\ABP-master\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.Properties.Resources.resources
+C:\Users\alber\Desktop\Projecte ABP\ABP-master\ABP-master\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.GestorJuego.ca.resources
+C:\Users\alber\Desktop\Projecte ABP\ABP-master\ABP-master\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\GestorJuego.csproj.GenerateResource.cache
+C:\Users\alber\Desktop\Projecte ABP\ABP-master\ABP-master\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\ca\SerializarJSON.resources.dll
+C:\Users\alber\Desktop\Projecte ABP\ABP-master\ABP-master\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\GestorJuego.csproj.CopyComplete
+C:\Users\alber\Desktop\Projecte ABP\ABP-master\ABP-master\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.exe
+C:\Users\alber\Desktop\Projecte ABP\ABP-master\ABP-master\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.pdb
+C:\Users\alber\Desktop\Projecte ABP\ABP-master\ABP-master\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\GestorJuego.csproj.CoreCompileInputs.cache
+C:\Users\Marc\Documents\GitHub\proyectoABP\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\SerializarJSON.exe.config
+C:\Users\Marc\Documents\GitHub\proyectoABP\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\SerializarJSON.exe
+C:\Users\Marc\Documents\GitHub\proyectoABP\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\SerializarJSON.pdb
+C:\Users\Marc\Documents\GitHub\proyectoABP\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\ca\SerializarJSON.resources.dll
+C:\Users\Marc\Documents\GitHub\proyectoABP\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Marc\Documents\GitHub\proyectoABP\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Marc\Documents\GitHub\proyectoABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\GestorJuego.csprojAssemblyReference.cache
+C:\Users\Marc\Documents\GitHub\proyectoABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.Properties.Resources.resources
+C:\Users\Marc\Documents\GitHub\proyectoABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\GestorJuego.csproj.GenerateResource.cache
+C:\Users\Marc\Documents\GitHub\proyectoABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\GestorJuego.csproj.CoreCompileInputs.cache
+C:\Users\Marc\Documents\GitHub\proyectoABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\ca\SerializarJSON.resources.dll
+C:\Users\Marc\Documents\GitHub\proyectoABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\GestorJuego.csproj.CopyComplete
+C:\Users\Marc\Documents\GitHub\proyectoABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.exe
+C:\Users\Marc\Documents\GitHub\proyectoABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.pdb
+C:\Users\cep.CEPNET0\Downloads\ABP-master\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\SerializarJSON.exe.config
+C:\Users\cep.CEPNET0\Downloads\ABP-master\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\SerializarJSON.exe
+C:\Users\cep.CEPNET0\Downloads\ABP-master\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\SerializarJSON.pdb
+C:\Users\cep.CEPNET0\Downloads\ABP-master\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\ca\SerializarJSON.resources.dll
+C:\Users\cep.CEPNET0\Downloads\ABP-master\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cep.CEPNET0\Downloads\ABP-master\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cep.CEPNET0\Downloads\ABP-master\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\GestorJuego.csprojAssemblyReference.cache
+C:\Users\cep.CEPNET0\Downloads\ABP-master\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.GestorJuego.resources
+C:\Users\cep.CEPNET0\Downloads\ABP-master\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.Properties.Resources.resources
+C:\Users\cep.CEPNET0\Downloads\ABP-master\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.GestorJuego.ca.resources
+C:\Users\cep.CEPNET0\Downloads\ABP-master\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\GestorJuego.csproj.GenerateResource.cache
+C:\Users\cep.CEPNET0\Downloads\ABP-master\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\GestorJuego.csproj.CoreCompileInputs.cache
+C:\Users\cep.CEPNET0\Downloads\ABP-master\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\ca\SerializarJSON.resources.dll
+C:\Users\cep.CEPNET0\Downloads\ABP-master\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\GestorJuego.csproj.CopyComplete
+C:\Users\cep.CEPNET0\Downloads\ABP-master\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.exe
+C:\Users\cep.CEPNET0\Downloads\ABP-master\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.pdb
+C:\Users\Marc\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormAjuda.resources
+C:\Users\Marc\Documents\GitHub\proyectoABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormAjuda.resources
+C:\Users\Marc\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormMenuPrincipal.resources
+C:\Users\Marc\Documents\GitHub\proyectoABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormGestorContingut.resources
+C:\Users\Marc\Documents\GitHub\proyectoABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormMenuPrincipal.resources
+C:\Users\Marc\Documents\GitHub\proyectoABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormGestorPersonatges.resources
+C:\Users\Marc\Documents\GitHub\proyectoABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormGestorPreguntes.resources
+C:\Users\Marc\Documents\GitHub\proyectoABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormGestorPreguntes.ca.resources
+C:\Users\Marc\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormGestorContingut.resources
+C:\Users\Marc\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormGestorPersonatges.resources
+C:\Users\Marc\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormGestorPreguntes.resources
+C:\Users\Marc\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormGestorPreguntes.ca.resources
+C:\Users\Marc\Desktop\GestorJuego\SerializarJSON\bin\Debug\SerializarJSON.exe.config
+C:\Users\Marc\Desktop\GestorJuego\SerializarJSON\bin\Debug\SerializarJSON.exe
+C:\Users\Marc\Desktop\GestorJuego\SerializarJSON\bin\Debug\SerializarJSON.pdb
+C:\Users\Marc\Desktop\GestorJuego\SerializarJSON\bin\Debug\ca\SerializarJSON.resources.dll
+C:\Users\Marc\Desktop\GestorJuego\SerializarJSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Marc\Desktop\GestorJuego\SerializarJSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Marc\Desktop\GestorJuego\SerializarJSON\obj\Debug\GestorJuego.csprojAssemblyReference.cache
+C:\Users\Marc\Desktop\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormAjuda.resources
+C:\Users\Marc\Desktop\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormGestorContingut.resources
+C:\Users\Marc\Desktop\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormMenuPrincipal.resources
+C:\Users\Marc\Desktop\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormGestorPersonatges.resources
+C:\Users\Marc\Desktop\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormGestorPreguntes.resources
+C:\Users\Marc\Desktop\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.Properties.Resources.resources
+C:\Users\Marc\Desktop\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormGestorPreguntes.ca.resources
+C:\Users\Marc\Desktop\GestorJuego\SerializarJSON\obj\Debug\GestorJuego.csproj.GenerateResource.cache
+C:\Users\Marc\Desktop\GestorJuego\SerializarJSON\obj\Debug\GestorJuego.csproj.CoreCompileInputs.cache
+C:\Users\Marc\Desktop\GestorJuego\SerializarJSON\obj\Debug\ca\SerializarJSON.resources.dll
+C:\Users\Marc\Desktop\GestorJuego\SerializarJSON\obj\Debug\GestorJuego.csproj.CopyComplete
+C:\Users\Marc\Desktop\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.exe
+C:\Users\Marc\Desktop\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.pdb
+C:\Users\Ivan\Downloads\ABP-master\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\SerializarJSON.exe.config
+C:\Users\Ivan\Downloads\ABP-master\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\SerializarJSON.exe
+C:\Users\Ivan\Downloads\ABP-master\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\SerializarJSON.pdb
+C:\Users\Ivan\Downloads\ABP-master\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\ca\SerializarJSON.resources.dll
+C:\Users\Ivan\Downloads\ABP-master\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\GestorJuego.csprojAssemblyReference.cache
+C:\Users\Ivan\Downloads\ABP-master\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormAjuda.resources
+C:\Users\Ivan\Downloads\ABP-master\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormGestorContingut.resources
+C:\Users\Ivan\Downloads\ABP-master\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormMenuPrincipal.resources
+C:\Users\Ivan\Downloads\ABP-master\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormGestorPersonatges.resources
+C:\Users\Ivan\Downloads\ABP-master\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormGestorPreguntes.resources
+C:\Users\Ivan\Downloads\ABP-master\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.Properties.Resources.resources
+C:\Users\Ivan\Downloads\ABP-master\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormGestorPreguntes.ca.resources
+C:\Users\Ivan\Downloads\ABP-master\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\GestorJuego.csproj.GenerateResource.cache
+C:\Users\Ivan\Downloads\ABP-master\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\GestorJuego.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Downloads\ABP-master\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\ca\SerializarJSON.resources.dll
+C:\Users\Ivan\Downloads\ABP-master\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.exe
+C:\Users\Ivan\Downloads\ABP-master\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.pdb
+C:\Users\Ivan\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\SerializarJSON.exe.config
+C:\Users\Ivan\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\SerializarJSON.exe
+C:\Users\Ivan\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\SerializarJSON.pdb
+C:\Users\Ivan\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\ca\SerializarJSON.resources.dll
+C:\Users\Ivan\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\GestorJuego.csprojAssemblyReference.cache
+C:\Users\Ivan\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormAjuda.resources
+C:\Users\Ivan\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormGestorContingut.resources
+C:\Users\Ivan\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormMenuPrincipal.resources
+C:\Users\Ivan\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormGestorPersonatges.resources
+C:\Users\Ivan\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormGestorPreguntes.resources
+C:\Users\Ivan\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.Properties.Resources.resources
+C:\Users\Ivan\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormGestorPreguntes.ca.resources
+C:\Users\Ivan\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\GestorJuego.csproj.GenerateResource.cache
+C:\Users\Ivan\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\GestorJuego.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\ca\SerializarJSON.resources.dll
+C:\Users\Ivan\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.exe
+C:\Users\Ivan\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.pdb
+C:\Users\alber\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\GestorJuego.csprojAssemblyReference.cache
+C:\Users\alber\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormAjuda.resources
+C:\Users\alber\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormGestorContingut.resources
+C:\Users\alber\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormMenuPrincipal.resources
+C:\Users\alber\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormGestorPersonatges.resources
+C:\Users\alber\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormGestorPreguntes.resources
+C:\Users\alber\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.Properties.Resources.resources
+C:\Users\alber\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormGestorPreguntes.ca.resources
+C:\Users\alber\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\GestorJuego.csproj.GenerateResource.cache
+C:\Users\alber\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\GestorJuego.csproj.CoreCompileInputs.cache
+C:\Users\alber\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.exe
+C:\Users\alber\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.pdb
+C:\Users\alber\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\SerializarJSON.exe.config
+C:\Users\alber\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\SerializarJSON.exe
+C:\Users\alber\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\SerializarJSON.pdb
+C:\Users\alber\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\ca\SerializarJSON.resources.dll
+C:\Users\alber\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alber\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alber\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\ca\SerializarJSON.resources.dll
+C:\Users\alber\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\GestorJuego.csproj.CopyComplete
+C:\Users\Ivan\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ivan\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\GestorJuego.csproj.CopyComplete
+C:\Users\Ivan\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\carlo\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\GestorJuego.csprojAssemblyReference.cache
+C:\Users\carlo\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormAjuda.resources
+C:\Users\carlo\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormGestorContingut.resources
+C:\Users\carlo\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormMenuPrincipal.resources
+C:\Users\carlo\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormGestorPersonatges.resources
+C:\Users\carlo\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormGestorPreguntes.resources
+C:\Users\carlo\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.Properties.Resources.resources
+C:\Users\carlo\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormGestorPreguntes.ca.resources
+C:\Users\carlo\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\GestorJuego.csproj.GenerateResource.cache
+C:\Users\carlo\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\GestorJuego.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.pdb
+C:\Users\carlo\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\SerializarJSON.exe.config
+C:\Users\carlo\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\SerializarJSON.exe
+C:\Users\carlo\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\SerializarJSON.pdb
+C:\Users\carlo\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\ca\SerializarJSON.resources.dll
+C:\Users\carlo\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\carlo\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\carlo\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\ca\SerializarJSON.resources.dll
+C:\Users\carlo\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\GestorJuego.csproj.CopyComplete
+C:\Users\carlo\Documents\GitHub\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.exe
+C:\Users\cep.CEPNET0\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\GestorJuego.csprojAssemblyReference.cache
+C:\Users\cep.CEPNET0\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormAjuda.resources
+C:\Users\cep.CEPNET0\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormGestorContingut.resources
+C:\Users\cep.CEPNET0\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormMenuPrincipal.resources
+C:\Users\cep.CEPNET0\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormGestorPersonatges.resources
+C:\Users\cep.CEPNET0\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormGestorPreguntes.resources
+C:\Users\cep.CEPNET0\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.Properties.Resources.resources
+C:\Users\cep.CEPNET0\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormGestorPreguntes.ca.resources
+C:\Users\cep.CEPNET0\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\GestorJuego.csproj.GenerateResource.cache
+C:\Users\cep.CEPNET0\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\GestorJuego.csproj.CoreCompileInputs.cache
+C:\Users\cep.CEPNET0\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.pdb
+C:\Users\cep.CEPNET0\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\SerializarJSON.exe.config
+C:\Users\cep.CEPNET0\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\SerializarJSON.exe
+C:\Users\cep.CEPNET0\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\SerializarJSON.pdb
+C:\Users\cep.CEPNET0\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\ca\SerializarJSON.resources.dll
+C:\Users\cep.CEPNET0\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cep.CEPNET0\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cep.CEPNET0\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\ca\SerializarJSON.resources.dll
+C:\Users\cep.CEPNET0\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\GestorJuego.csproj.CopyComplete
+C:\Users\cep.CEPNET0\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.exe
+C:\Users\Marc\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\GestorJuego.csprojAssemblyReference.cache
+C:\Users\Marc\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormAjuda.resources
+C:\Users\Marc\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormGestorContingut.resources
+C:\Users\Marc\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormMenuPrincipal.resources
+C:\Users\Marc\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormGestorPersonatges.resources
+C:\Users\Marc\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormGestorPreguntes.resources
+C:\Users\Marc\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.Properties.Resources.resources
+C:\Users\Marc\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.FormGestorPreguntes.ca.resources
+C:\Users\Marc\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\GestorJuego.csproj.GenerateResource.cache
+C:\Users\Marc\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\GestorJuego.csproj.CoreCompileInputs.cache
+C:\Users\Marc\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.pdb
+C:\Users\Marc\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\SerializarJSON.exe.config
+C:\Users\Marc\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\SerializarJSON.exe
+C:\Users\Marc\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\SerializarJSON.pdb
+C:\Users\Marc\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\ca\SerializarJSON.resources.dll
+C:\Users\Marc\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Marc\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Marc\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\ca\SerializarJSON.resources.dll
+C:\Users\Marc\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\GestorJuego.csproj.CopyComplete
+C:\Users\Marc\Desktop\ABP\App Escritorio\GestorJuego\SerializarJSON\obj\Debug\SerializarJSON.exe
